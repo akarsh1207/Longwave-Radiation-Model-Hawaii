@@ -1,1 +1,2 @@
 # Longwave Radiation Cloud Data Processing for Hawaii Data
+Ther following repository contains timeseries data from various stations in Hawaii. Only a sample dataset has been taken to begin the processing for now. 
