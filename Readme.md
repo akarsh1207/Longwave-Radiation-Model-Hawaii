@@ -4,8 +4,8 @@ The following repository contains timeseries data from various stations in Hawai
 - [x] Loading multiple station's dataset as a list + Extracting each .csv's metadata
 - [x] Reformatting each dataframe
 - [x] Concatenating each station's data to a combined .csv
-- [] Gain access to more HI station's data
-- [] Removing irrelevant parameters (Feature Selection)
-- [] Creating a Plotting function as per Prof's format
-- [] Constructing multiple plots similiar to that of Zoey's and Jiedong's
-- [] Account for frequency of measurement (= 5 min)
+- [ ] Gain access to more HI station's data
+- [ ] Removing irrelevant parameters (Feature Selection)
+- [ ] Creating a Plotting function as per Prof's format
+- [ ] Constructing multiple plots similiar to that of Zoey's and Jiedong's
+- [ ] Account for frequency of measurement (= 5 min)
