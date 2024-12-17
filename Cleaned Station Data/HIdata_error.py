@@ -46,7 +46,7 @@ def calculate_errors(actual, predicted):
     return mbe, rmse, rMBE, rRMSE
 
 # Load your Hawaii dataset
-data = pd.read_excel("/Users/akarsh1207/Desktop/Lab/Coimbra Research Group/Longwave-Radiation-Model-Hawaii/Cleaned Station Data/011HI_final.xlsx")
+data = pd.read_excel("/Users/akarsh1207/Desktop/Lab/Coimbra Research Group/Longwave-Radiation-Model-Hawaii/Cleaned Station Data/014HI_final.xlsx")
 # Assuming your dataset has columns: 'DHI', 'GHI', 'DNI', 'Clearsky DNI', 'Temp', 'DLW', 'RH', 'Altitude',
 # 'epsilon_clouds'
 dhi_m = data['DHI']
